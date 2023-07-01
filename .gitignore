@@ -156,7 +156,8 @@ cython_debug/
 Data
 .DS_Store
 .env
-DisplayLLM.ipynb
+.ipynb_checkpoints
+upgrade.txt
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
