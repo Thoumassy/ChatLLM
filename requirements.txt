@@ -6,3 +6,4 @@ google-api-python-client==2.91.0
 unstructured==0.7.11
 tabulate==0.9.0
 #pdf2image
+tiktoken==0.4.0
